@@ -5,6 +5,11 @@ My model testifies that if a country has high GDP and low GPI (or rather a bette
 
 GPI refers to Global Peace Index and is represented with a global rank as well as a score. GDP is annualized, per capita, and presented in U.S. dollars. Data compiled from various sources:
 
+Data source :
 Global Peace Index 2012
 CIA World Fact Book
 Wikipedia - Religions by country
+
+Mean Absolute Error: 8.09763750001
+M: 177.347832612
+RMSE: 13.3172006297
